@@ -5,4 +5,4 @@ window.onload = () => {
 		navigator.serviceWorker.register('sw.js');
 		console.log('Service worker registered.');
 	}
-}
+};
