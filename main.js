@@ -7,4 +7,4 @@ window.onload = () => {
     console.log('Service worker registered.');
 
   }
-}
+};
